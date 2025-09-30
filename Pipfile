@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pydub = "*"
+tomli = "*"
+SQLAlchemy = "*"
+python-speech-features = "*"
+scipy = "*"
+torch = "*"
+tensorboard = "*"
+brevitas = "*"
+matplotlib = "*"
+pyaudio = "*"
+librosa="*"
+seaborn="*"
+pandas="*"
+onnx="*"
+onnxoptimizer="*"
+netron="*"
+IPython="*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
