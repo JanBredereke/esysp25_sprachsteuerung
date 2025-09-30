@@ -1,5 +1,9 @@
 # KI
 
+Der Kontext und der Inhalt dieses Repositories sind in einem
+technischen Bericht der Hochschule Bremen beschrieben:
+https://homepages.on.hs-bremen.de/~jbredereke/de/forschung/veroeffentlichungen/vehikel-bild-spracherkennung-esysp-2025.html
+
 Classification of spoken words to be able to control a remote-control car. Supported words are "left", "right", "forward", "stop", and "back".
 
 ## Data
